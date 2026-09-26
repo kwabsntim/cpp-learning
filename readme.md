@@ -18,7 +18,7 @@ Work through 10 console projects, then 2 Qt GUI projects, then begin the browser
 | # | Project | Status | Concepts Covered |
 |---|---------|--------|-----------------|
 | 1 | Ingredients Calculator | Done | Variables, cin/cout, conditionals, input validation |
-| 2 | Number Guessing Game | In Progress | Loops, counters, if/else if/else |
+| 2 | Number Guessing Game | Done | Loops, counters, if/else if/else |
 | 3 | Simple Calculator | Pending | Switch statements, operators |
 | 4 | Temperature Converter | Pending | Functions, type casting |
 | 5 | Student Grade Tracker | Pending | Arrays, averages |

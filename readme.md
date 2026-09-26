@@ -51,6 +51,11 @@ A console program that calculates ingredient amounts for pancakes based on the n
 
 **File:** `ingredients.cpp`
 
+### 2. Number guessing game 
+ A console program that makes the user guess a number and the system checks it against the secret number and the user has only five attempts at guessing the number
+
+**File:** `number-guessing-game.cpp`
+
 ---
 
 ## Notes
